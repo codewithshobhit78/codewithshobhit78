@@ -2,19 +2,34 @@
 codewithshobhit78/codewithshobhit78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+ <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<h3 align="center">A Passionate MERN Full Stack Development,</h3>
+
+[![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
+
+🌱 I’m currently learning GEEKSTER/MERN STACK PROGRAM<br><br>💬 Ask me about JavaScript, Python, and <br><br>📫 How to reach me Sobhitkumar42@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
+
 Here are some ideas to get you started:
 
 - 👋 Hi, I’m @codewithshobhit78
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am foody
+- 🌱 I’m currently learning full stack web development/Geekster
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p> -->
     
 
     
