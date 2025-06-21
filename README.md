@@ -14,19 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
- <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-<h3 align="center">A Passionate MERN Full Stack Development,</h3>
+ <img src="https://readme-typing-svg.herokuapp.com?color=orange&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<h3 align="center">A Passionate 'MERN' Full Stack Developer...</h3>
 
 [![](https://visitcount.itsvg.in/api?id=nilansh-07&icon=0&color=12)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning GEEKSTER/MERN STACK PROGRAM<br><br>💬 Ask me about JavaScript, Python, and <br><br>📫 How to reach me Sobhitkumar42@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
+🌱 I’m currently learning GEEKSTER/MERN STACK PROGRAM<br><br>💬 Ask me about Html, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Python, <br><br>📫 How to reach me Sobhitkumar42@gmail.com<br><br>⚡ Fun fact is that I Love Traveling to New Places
 
 Here are some ideas to get you started:
 
-- 👋 Hi, I’m @codewithshobhit78
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web development/Geekster
--->
+- Front-End: The visual part users see, using HTML, CSS, and JavaScript.
+- Back-End: The server side that handles data and logic, using languages like Python or Node.js.
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&width=380&height=28&lines=Hi👋+I'mShobhit-Kumar..;Student+Geekster;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p> -->
@@ -44,42 +42,42 @@ Here are some ideas to get you started:
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a>
